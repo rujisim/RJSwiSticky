@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "umd",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "jsx": "react",
+        "strict": true,
+        "alwaysStrict": true,
+        "outDir": "dist/",
+    },
+    "include": [
+        "**/*.ts",
+        "**/*.tsx"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+}
