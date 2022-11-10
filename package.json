@@ -11,7 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^12.7.3",
-    "electron": "^6.0.7",
+    "electron": "^18.3.7",
     "tslint": "^5.19.0",
     "typescript": "^3.6.2"
   }
